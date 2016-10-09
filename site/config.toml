@@ -15,12 +15,12 @@ pluralizeListTitles = false
   group = "groups"
 
 [[menu.main]]
-    name = "About Keno Antigen"
+    name = "About KA"
     identifier = "about"
     pre = "<i class='fa fa-heart'></i>"
-    weight = -110
+    weight = 10
 [[menu.main]]
     name = "Getting Started"
     identifier = "getting started"
     pre = "<i class='fa fa-road'></i>"
-    weight = -100
+    weight = 20
